@@ -1,0 +1,11 @@
+{
+  "name": "shiki-markdown-injection-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node index.mjs"
+  },
+  "dependencies": {
+    "shiki": "4.5.0"
+  }
+}
